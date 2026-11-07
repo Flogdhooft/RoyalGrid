@@ -4,6 +4,10 @@ An interactive playing cards layout project built as part of the Responsive Web 
 
 ---
 
+![image](https://github.com/Flogdhooft/RoyalGrid/blob/5eb68c855a5eea29ba5f35dd14cbe79cdeca760f/photo_2026-11-07_12-12-06.jpg)
+
+---
+
 ## Key Features
 
 * **Component Styling & Positioning** : Uses advanced CSS properties (`display: flex`, `justify-content`, and transforms) to accurately structure card faces, suits, and corner values.
