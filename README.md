@@ -10,18 +10,18 @@ An interactive playing cards layout project built as part of the Responsive Web 
 
 ## Key Features
 
-* **Component Styling & Positioning** : Uses advanced CSS properties (`display: flex`, `justify-content`, and transforms) to accurately structure card faces, suits, and corner values.
-* **Responsive Layout Design** : Integrates flex-wrap and fluid container sizing (`flex-wrap: wrap`, `min-height: 100dvh`) to dynamically adapt the card layout across different screen sizes.
-* **Visual Effects & Interactions** : Applies smooth gradients (`linear-gradient`) and subtle drop shadows (`box-shadow`) to simulate the physical relief and depth of real playing cards.
+* **Component Styling & Positioning :** Uses advanced CSS properties (`display: flex`, `justify-content`, and transforms) to accurately structure card faces, suits, and corner values.
+* **Responsive Layout Design :** Integrates flex-wrap and fluid container sizing (`flex-wrap: wrap`, `min-height: 100dvh`) to dynamically adapt the card layout across different screen sizes.
+* **Visual Effects & Interactions :** Applies smooth gradients (`linear-gradient`) and subtle drop shadows (`box-shadow`) to simulate the physical relief and depth of real playing cards.
 
 ---
 
 ## Concepts & Technologies Applied
 
-* **HTML5** : Semantic page structure (`<main>`, `<div>`) and integration of card symbols and elements.
-* **CSS3** : Box model (`box-sizing`), precise positioning, flexbox layout management, and transformations (`transform: rotate`).
-* **Responsive Web Design** : Fluid alignments, adaptive units (`dvh`), and flexible grid/flex wrapping.
-* **Advanced Selectors** : Utilization of pseudo-classes (`:nth-of-type`) for targeted card styling and orientation.
+* **HTML5 :** Semantic page structure (`<main>`, `<div>`) and integration of card symbols and elements.
+* **CSS3 :** Box model (`box-sizing`), precise positioning, flexbox layout management, and transformations (`transform: rotate`).
+* **Responsive Web Design :** Fluid alignments, adaptive units (`dvh`), and flexible grid/flex wrapping.
+* **Advanced Selectors :** Utilization of pseudo-classes (`:nth-of-type`) for targeted card styling and orientation.
 
 ---
 
